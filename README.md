@@ -59,4 +59,5 @@ Jenkins 是企业广泛使用的持续集成项目，将代码安全检测能力
 ![pipeline](./image/pipeline.png)
 
 - 调用飞书机器人 Webhook 将构建结果发送到群内。当项目检测未通过时，可以在后台将检测结果导入发送给开发人员做修复参考。
+
 ![feishu-message](./image/feishu_message.png)
